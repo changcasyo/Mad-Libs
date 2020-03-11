@@ -1,4 +1,5 @@
 #Mad Libs is a type of word play
+#Story taken from google search: https://g.christianbook.com/g/slideshow/1/173796/main/173796_5_sam.jpg and edited
 
 print("Let's play a game! It is called Mad Libs")
 player = input("What's your name?")
